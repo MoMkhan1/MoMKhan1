@@ -34,7 +34,7 @@ Implemented Longstaff–Schwartz Monte Carlo and deep learning methods for prici
 
 🔹 Computational Finance Models  
 Numerical PDE solvers, Monte Carlo simulations, and Black–Scholes implementations for derivative pricing.  
-👉 https://github.com/MoMKhan1/computationalfinance-model
+👉 https://github.com/MoMKhan1/computational-finance-model
 
 ---
 
