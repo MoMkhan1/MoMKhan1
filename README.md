@@ -24,17 +24,27 @@ My research and projects focus on pricing and hedging financial derivatives, tim
 ---
 
 ## 📌 Featured Projects
-🔹 Financial Time Series Forecasting  
-Forecasted SPY, QQQ, and Bitcoin prices using ARIMA, Random Forest, and LSTM models.  
-👉 https://github.com/MoMKhan1/financial-time-series-forecasting
 
-🔹 Pricing American Options with Deep Learning  
-Implemented Longstaff–Schwartz Monte Carlo and deep learning methods for pricing and hedging American-style options.  
+🔹 Cyber-Secure ML Derivatives  
+Built a secure ML-based derivatives pipeline, including option pricing, delta hedging, trading simulations, and encrypted financial data handling.  
+👉 https://github.com/MoMKhan1/cyber-secure-ml-derivatives
+
+🔹 American Options Deep Learning  
+Implemented algorithmic pricing and hedging of American-style options using Longstaff–Schwartz Monte Carlo enhanced with neural networks.  
 👉 https://github.com/MoMKhan1/american-options-dl-matlab
 
-🔹 Computational Finance Models  
-Numerical PDE solvers, Monte Carlo simulations, and Black–Scholes implementations for derivative pricing.  
+🔹 Computational Finance Model  
+Implemented numerical PDE solvers, Monte Carlo simulations, and Black–Scholes methods for derivative pricing, hedging, and risk analysis in Python.  
 👉 https://github.com/MoMKhan1/computational-finance-model
+
+🔹 Financial Time Series Forecasting  
+Implemented ARIMA, Random Forest, and LSTM models to forecast equity and ETF prices, with feature engineering and performance evaluation.  
+👉 https://github.com/MoMKhan1/financial-time-series-forecasting
+
+🔹 Front-Office Risk Analytics  
+Developed an end-to-end Python platform for trading desks, including real-time pricing, portfolio risk metrics, ML-driven trading signals, and visualization-ready outputs.  
+👉 https://github.com/MoMKhan1/front-office-risk-analytics
+
 
 ---
 
