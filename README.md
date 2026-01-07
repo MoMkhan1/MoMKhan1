@@ -45,6 +45,12 @@ Implemented ARIMA, Random Forest, and LSTM models to forecast equity and ETF pri
 Developed an end-to-end Python platform for trading desks, including real-time pricing, portfolio risk metrics, ML-driven trading signals, and visualization-ready outputs.  
 👉 https://github.com/MoMKhan1/front-office-risk-analytics
 
+🔹 quantrisk-ml  
+Quantrisk-ML is a Python-based framework combining machine learning (LSTM, Random Forest) with quantitative finance to analyze portfolio risk, forecast returns, compute VaR, run Monte Carlo simulations, and stress-test scenarios for data-driven financial insights  
+👉 https://github.com/MoMKhan1/quantrisk-ml
+
+
+
 
 ---
 
