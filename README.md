@@ -23,6 +23,21 @@ My research and projects focus on pricing and hedging financial derivatives, tim
 
 ---
 
+## Certifications
+
+**Kaggle**
+- Intro to Machine Learning
+- Time Series
+- Feature Engineering
+- Data Cleaning
+- Intro to SQL
+- Advanced SQL
+- Intro to Deep Learning
+
+**Le Wagon**
+- Introduction to Docker
+
+
 ## 📌 Featured Projects
 
 🔹 Cyber-Secure ML Derivatives  
