@@ -41,6 +41,10 @@ Implemented numerical PDE solvers, Monte Carlo simulations, and Black–Scholes 
 Implemented ARIMA, Random Forest, and LSTM models to forecast equity and ETF prices, with feature engineering and performance evaluation.  
 👉 https://github.com/MoMKhan1/financial-time-series-forecasting
 
+🔹 marketing_mix_forecasting  
+Using Machine Learning, time-series forecasting, and econometric modeling to optimize marketing spend and maximize ROI. 
+👉 https://github.com/MoMKhan1/marketing_mix_forecasting.
+
 🔹 Front-Office Risk Analytics  
 Developed an end-to-end Python platform for trading desks, including real-time pricing, portfolio risk metrics, ML-driven trading signals, and visualization-ready outputs.  
 👉 https://github.com/MoMKhan1/front-office-risk-analytics
