@@ -40,7 +40,7 @@ My research and projects focus on pricing and hedging financial derivatives, tim
 
 ## 📌 Featured Projects
 
-🔹 On-Chain Insights Analytics
+🔹 On-Chain Insights Analytics  
 Interactive dashboard for EVM-based networks analyzing wallet activity, TVL, gas usage, and transaction trends.  
 👉 https://github.com/MoMKhan1/onchain_insights_analytics
 
