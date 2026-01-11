@@ -40,8 +40,8 @@ My research and projects focus on pricing and hedging financial derivatives, tim
 
 ## 📌 Featured Projects
 
-🔹 onchain_insights_analytics 
-Interactive On-Chain Analytics Dashboard for EVM-based networks. 
+🔹 Onchain_Insights_Analytics 
+ Interactive On-Chain Analytics Dashboard for EVM-based networks 
 👉 https://github.com/MoMKhan1/onchain_insights_analytics
 
 🔹 Cyber-Secure ML Derivatives  
