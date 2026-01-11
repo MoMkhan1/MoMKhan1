@@ -40,9 +40,14 @@ My research and projects focus on pricing and hedging financial derivatives, tim
 
 ## 📌 Featured Projects
 
+🔹 onchain_insights_analytics 
+Interactive On-Chain Analytics Dashboard for EVM-based networks. 
+👉 https://github.com/MoMKhan1/onchain_insights_analytics
+
 🔹 Cyber-Secure ML Derivatives  
 Built a secure ML-based derivatives pipeline, including option pricing, delta hedging, trading simulations, and encrypted financial data handling.  
 👉 https://github.com/MoMKhan1/cyber-secure-ml-derivatives
+
 
 🔹 American Options Deep Learning  
 Implemented algorithmic pricing and hedging of American-style options using Longstaff–Schwartz Monte Carlo enhanced with neural networks.  
