@@ -10,9 +10,7 @@ PhD Researcher in Mathematics | Quantitative Finance | Machine Learning | Data S
 
 ## 🔍 About Me
 I am a PhD researcher in Mathematics specializing in quantitative finance, financial machine learning, and computational modeling. My work focuses on pricing and hedging financial derivatives, Monte Carlo simulations, and AI-driven financial models, combining rigorous mathematical theory with practical, production-ready implementations in Python and MATLAB.
-
-My projects showcase derivatives pricing engines, portfolio risk analytics, and deep learning models for American and credit options, designed to deliver actionable insights for finance professionals, hedge funds, and quantitative research teams.
-Explore my portfolio:github.com/MoMKhan1
+My projects showcase derivatives pricing engines, portfolio risk analytics, and deep learning models for American and credit options, designed to deliver actionable insights for finance professionals, hedge funds, and quantitative research teams. Explore my portfolio: github.com/MoMkhan1
 ---
 
 ## 🧠 Core Skills
